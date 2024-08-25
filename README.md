@@ -1,10 +1,18 @@
 ## Hi there 👋
 
-<!--
-**ThiliniMadumekala/ThiliniMadumekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">hey there 👋, I'm Thilini Madumekala</h1>
 
-- 🌱 I’m currently learning Information Technology
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">😉About Me</h3>
+
+###
+
+<p align="left">
+  I'm ... from ....Sri Lanka<br><br>- 
+  🔭 I’m working as  a Student<br>- 
+  📚 I'm currently learning Business Analysis 
+</p>
+
