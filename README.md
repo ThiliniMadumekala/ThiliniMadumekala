@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  I'm ... from ....Sri Lanka<br><br>- 
+  I'm from Sri Lanka<br><br>- 
   🔭 I’m working as  a Student<br>- 
   📚 I'm currently learning Business Analysis 
 </p>
